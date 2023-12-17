@@ -25,7 +25,7 @@ I'm a passionate Software Engineer who enjoys Photography. Welcome to my GitHub 
 
 ## Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/YourGitHubUsername)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smithk0&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/YourGitHubUsername)
 
 ## Connect with Me
 
